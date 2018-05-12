@@ -1,0 +1,28 @@
+_repo: The-Automobile-Girls-at-Newport--13-Or-Watching-the-Summer-Parade_36273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crane, Laura Dent
+    gutenberg_agent_id: '4425'
+    url: http://www.gutenberg.org/2009/agents/4425
+description: ''
+gutenberg_issued: '2011-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Newport (R.I.) -- Juvenile fiction'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+title: The Automobile Girls at Newport; Or, Watching the Summer Parade
+url: http://www.gutenberg.org/ebooks/36273
